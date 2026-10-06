@@ -1,4 +1,5 @@
 # Germany Weather Dashboard
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://germany-weather-profile.streamlit.app/)
 
 An interactive dashboard built with Streamlit to visualize 24-hour diurnal temperature profiles across major German cities using forecast data from the Open-Meteo API.
 
@@ -21,7 +22,7 @@ An interactive dashboard built with Streamlit to visualize 24-hour diurnal tempe
 ## Run Locally
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/germany-weather-dashboard.git
+git clone https://github.com/nishoa/Germany-Weather-Dashboard.git
 cd germany-weather-dashboard
 
 python -m venv venv
